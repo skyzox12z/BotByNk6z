@@ -1,10 +1,7 @@
-# ☢️ Nukebot — Discord Server Nuker (fictional project)
+# ☢️ Nukebot — Discord Server Nuker 
 
 > ⚠️ **AVERTISSEMENT : *CEST ILLEGAL*  
 > Il viole les Conditions d'utilisation de Discord s’il est utilisé à mauvais escient.  
-> Ce dépôt est présenté dans le cadre d’un scénario de film/série, pour illustrer un personnage de fiction (Jayden).  
-> Ne l'utilisez pas dans des contextes réels sans autorisation explicite.
-
 ---
 
 ## 🔧 Fonctionnalités
