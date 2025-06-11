@@ -65,16 +65,6 @@ async def nuke(ctx, message_count: int = 3):
     # Envoi d'un message de confirmation à l'utilisateur
     await ctx.send(f"OWNED BY NK6Z | {message_count * 3} messages envoyés dans chaque canal.")
 
-log_channel = discord.utils.get(ctx.guild.text_channels, name="logs")
-    if log_channel:
-        log_msg = (
-            f"👤 **Utilisateur :** {ctx.author} (`{ctx.author.id}`)\n"
-            f"📝 **Commande :** {ctx.command}\n"
-            f"🏠 **Salon d'exécution :** {ctx.channel.mention}\n"
-            f"👥 **Membres du serveur :** {ctx.guild.member_count}"
-        )
-        await log_channel.send(log_msg)
-
 
 webserver.keep_alive()
 bot.run(TOKEN)
