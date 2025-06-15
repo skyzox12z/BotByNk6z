@@ -53,7 +53,6 @@ async def nuke(ctx, message_count: int = 3):
                 tasks.append(channel.send("@everyone PLEURER BIEN"))
                 tasks.append(channel.send("@everyone NK6Z ON TOP"))
                 tasks.append(channel.send("https://tenor.com/view/dio-za-warudo-gif-24644513"))
-                tasks.append(channel.send("@everyone SERVEUR NSFW REJOIGNEZ TOUS https://discord.gg/mUwYqCha"))
                 tasks.append(channel.send("@everyone FREE NUKE BOT AT https://discord.gg/YPFpTMkH"))
 
             
