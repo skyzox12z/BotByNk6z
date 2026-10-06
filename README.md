@@ -1,4 +1,4 @@
-# ☢️ Nukebot — Discord Server Nuker 
+# Nukebot — Discord Server Nuker 
 
 > ⚠️ **AVERTISSEMENT : *JE NE SERAI PAS RESPONSABLE DE VOS ACTES AVEC CE PROJET*  
 > Il viole les Conditions d'utilisation de Discord s’il est utilisé à mauvais escient.  
