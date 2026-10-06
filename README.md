@@ -1,10 +1,10 @@
 # ☢️ Nukebot — Discord Server Nuker 
 
-> ⚠️ **AVERTISSEMENT : *CEST ILLEGAL*  
+> ⚠️ **AVERTISSEMENT : *JE NE SERAI PAS RESPONSABLE DE VOS ACTES AVEC CE PROJET*  
 > Il viole les Conditions d'utilisation de Discord s’il est utilisé à mauvais escient.  
 ---
 
-## 🔧 Fonctionnalités
+## Fonctionnalités
 
 Ce bot Discord permet de :
 
